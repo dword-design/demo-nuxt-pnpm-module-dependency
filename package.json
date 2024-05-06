@@ -1,0 +1,9 @@
+{
+  "scripts": {
+	"dev": "nuxt dev"
+  },
+  "dependencies": {
+    "nuxt-mail": "^5.0.1",
+    "nuxt": "^3.11.2"
+  }
+}
